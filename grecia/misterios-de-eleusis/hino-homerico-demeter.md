@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="960" height="1273" alt="image" src="https://github.com/user-attachments/assets/03e467bf-e222-4780-a3f9-a1cd4a66afa9" />
+<img width="960" height="1273" alt="image" src="https://github.com/user-attachments/assets/41450293-3ee3-47f7-b693-5771e09f38af" />
 
 <sub>_The Return of Persephone_, 1891 | Frederic Leighton</sub>
 
